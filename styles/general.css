@@ -1,4 +1,4 @@
-p{
+        p{
             margin-top: 0px;
             margin-bottom: 0px;
             font-family: roboto,arial;
@@ -6,4 +6,7 @@ p{
         }
         body{
             margin: 0;
+            padding-top: 80px;
+            padding-left: 80px;
         }
+        
